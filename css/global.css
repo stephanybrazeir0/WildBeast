@@ -21,8 +21,10 @@ li {
   list-style: none;
 }
 
-img{
+img {
   max-width: 100%;
+  display: block;
+  border-radius: 5px;
 }
 
 /* Grid Geral*/
